@@ -1,3 +1,5 @@
 # Ignore build folder
-
 build/
+
+# Ignore test folder (commands testing)
+test/
