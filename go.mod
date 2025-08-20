@@ -1,3 +1,3 @@
-module github.com/codecrafters-io/git-starter-go
+module www.github.com/fr13nd230/voidfork
 
-go 1.24.0
+go 1.24.5
